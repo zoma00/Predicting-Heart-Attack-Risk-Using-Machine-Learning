@@ -53,6 +53,4 @@ The dataset,  "Heart Failure prediction.csv", contains 299 rows and 13 columns r
 3. Open the Jupyter Notebook (e.g., `Heart_Attack_Failure_Prediction.ipynb`)
 4. Run the code cells sequentially.
 
-**Note:**
 
-This documentation provides a high-level overview. Refer to the Jupyter Notebook for detailed code explanations and visualizations.
